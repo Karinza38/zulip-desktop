@@ -1,4 +1,4 @@
-# Zulip Desktop Client
+ # Zulip Desktop Client
 
 [![Build Status](https://github.com/zulip/zulip-desktop/actions/workflows/node.js.yml/badge.svg)](https://github.com/zulip/zulip-desktop/actions/workflows/node.js.yml?query=branch%3Amain)
 [![Windows Build Status](https://ci.appveyor.com/api/projects/status/github/zulip/zulip-desktop?branch=main&svg=true)](https://ci.appveyor.com/project/zulip/zulip-desktop/branch/main)
